@@ -2,6 +2,10 @@
 
 Sitio web institucional interactivo e informativo sobre los **créditos académicos** contemplados en el **Régimen Académico Marco (RAM)** de la Dirección General de Educación Superior de la Provincia de Córdoba, y su implementación proyectada en el **Instituto Leibnitz** bajo su Régimen Académico Institucional (RAI).
 
+🌐 **Sitio web en vivo:** [https://instituto-leibnitz-creditos.netlify.app](https://instituto-leibnitz-creditos.netlify.app)  
+📦 **Repositorio GitHub:** [https://github.com/morini-prog/instituto-leibnitz-creditos](https://github.com/morini-prog/instituto-leibnitz-creditos)
+
+
 ## 📌 Propósito y Contenido
 
 El sitio brinda claridad a la comunidad educativa sobre:
